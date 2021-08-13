@@ -1,0 +1,3 @@
+include ':slf4j'
+include ':app'
+rootProject.name = "SFL4J"
